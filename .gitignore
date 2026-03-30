@@ -1,0 +1,28 @@
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+
+# Node modules
+frontend/node_modules/
+
+# VSCode
+.vscode/
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+env/
+venv/
+
+# Log files
+*.log
+
+# Secrets - DO NOT COMMIT
+config.py
+*.env

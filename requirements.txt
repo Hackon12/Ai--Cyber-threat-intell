@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+spacy
+python-multipart
+networkx
+requests
+beautifulsoup4
+lxml
+httpx 
+python-dotenv
+scapy
